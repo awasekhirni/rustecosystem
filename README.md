@@ -1,7 +1,7 @@
 # rustecosystem
 rust ecosystem
 
-#todo demos 
+###todo demos 
 1.Banking app
 2. Library management app
 3. online store 
