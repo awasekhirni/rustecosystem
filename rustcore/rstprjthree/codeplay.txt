@@ -1,0 +1,6 @@
+//rstprjthree
+//oops concepts
+
+//create a new project 
+cargo new rstprjthree
+cargo check 

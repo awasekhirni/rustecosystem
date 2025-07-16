@@ -1,0 +1,8 @@
+//rstprjtwo
+
+//creating a new rust project using cargo
+cargo new rstprjtwo
+cargo check
+cargo build --release
+cargo run 
+
