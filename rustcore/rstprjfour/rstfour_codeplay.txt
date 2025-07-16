@@ -1,0 +1,30 @@
+
+
+cargo - rust's build system and package manager
+- building your code, downloading the libraries
+cargo --version
+
+//creating a new project with cargo
+cargo new projectname(rstprjone)
+
+# building or compiling
+cd rstprjone
+cargo build
+
+
+//cargo build --release
+cargo build --release
+
+// cargo run
+cargo run
+./target/debug/rstprjone
+
+//cargo check - quickly checks your code to make sure it compiles
+cargo check
+
+
+
+
+#compiling rust program
+rustc main.rs
+./main
